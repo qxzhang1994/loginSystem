@@ -1,4 +1,4 @@
-** MEAN stack **
+## MEAN stack 
 The components of the MEAN stack are as follows:
 - MongoDB, a NoSQL database
 - Express.js, a web application framework that runs on Node.js
@@ -6,7 +6,7 @@ The components of the MEAN stack are as follows:
 - Node.js, an execution environment for event-driven server-side and networking applications
 Because all components of the MEAN stack support programs are written in JavaScript, MEAN applications can be written in one language for both server-side and client-side execution environments.
 
-** How to run system **
+## How to run system
 You can run the project directly in our workspace. The github authorization 
 module is only work in our workspace (because github OAuth apps needs a fixed 
 authorization callback URL). Our URL is https://project22-zhangqx.c9users.io/login
